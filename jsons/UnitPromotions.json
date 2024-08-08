@@ -997,7 +997,7 @@
 	},
 	{
 		"name": "Vampiric Touch", // Morlovia
-		"uniques": ["Heals [15] damage if it kills a unit"]
+		"uniques": ["Heals [35] damage if it kills a unit","May capture killed [Military] units <with [75]% chance>"]
 	},
 	{
 		"name": "Slow Learner", // Morlovia
