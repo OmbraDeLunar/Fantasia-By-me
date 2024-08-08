@@ -343,13 +343,13 @@
 	{
 		"name": "Bloodlust",
 		"uniques": ["[+5] HP when healing <in [Friendly Land] tiles>", 
-					"[+5] HP when healing <in [Coffin] tiles>"],
+					"[+10] HP when healing <in [Coffin] tiles>"],
 		"unitTypes": ["Vampire"]
 	},
 	{
 		"name": "Winged Vampire",
 		"prerequisites": ["Bloodlust"],
-		"uniques": ["[+2] Movement"],
+		"uniques": ["[+3] Movement","Ignores terrain cost"],
 		"unitTypes": ["Vampire"]
 	},
 	{
@@ -361,7 +361,7 @@
 	{
 		"name": "Frightening Vibe",
 		"prerequisites": ["Winged Vampire","Daywalker"],
-		"uniques": ["[-10]% Strength for enemy [All] units in adjacent [All] tiles"],
+		"uniques": ["[-25]% Strength for enemy [All] units in adjacent [All] tiles"],
 		"unitTypes": ["Vampire"]
 	},
 	{
