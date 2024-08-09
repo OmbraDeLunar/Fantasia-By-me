@@ -2165,6 +2165,7 @@
 		"movement": 4,
 		"strength": 50,
   "rangedStrength": 50,
+  "range": 10,
 		"uniques": ["Unbuildable",
     "Nuclear weapon of Strength [2]",
     "Blast radius [2]",
