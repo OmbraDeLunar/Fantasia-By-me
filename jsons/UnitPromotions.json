@@ -349,13 +349,13 @@
 	{
 		"name": "Winged Vampire",
 		"prerequisites": ["Bloodlust"],
-		"uniques": ["[+3] Movement","Ignores terrain cost"],
+		"uniques": ["May Paradrop up to [15] tiles from inside friendly territory","Ignores terrain cost"],
 		"unitTypes": ["Vampire"]
 	},
 	{
 		"name": "Daywalker",
 		"prerequisites": ["Bloodlust"],
-		"uniques": ["[+50]% Strength <when fighting in [Desert] tiles>"],
+		"uniques": ["[+50]% Strength <when fighting in [Desert] tiles>","Unit will heal every turn, even if it performs an action"],
 		"unitTypes": ["Vampire"]
 	},
 	{
