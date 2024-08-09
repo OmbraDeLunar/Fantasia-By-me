@@ -349,7 +349,7 @@
 	{
 		"name": "Winged Vampire",
 		"prerequisites": ["Bloodlust"],
-		"uniques": ["May Paradrop up to [15] tiles from inside friendly territory","Ignores terrain cost","Ignores Zone of Control"],
+		"uniques": ["May Paradrop up to [15] tiles from inside friendly territory","Ignores terrain cost","Ignores Zone of Control","All tiles cost 1 movement","May travel on Water tiles without embarking",],
 		"unitTypes": ["Vampire"]
 	},
 	{
@@ -367,7 +367,7 @@
 	{
 		"name": "Blood Baptism",
 		"prerequisites": ["Frightening Vibe"],
-		"uniques": ["[+25]% Strength"],
+		"uniques": ["[+25]% Strength","[1] additional attacks per turn"],
 		"unitTypes": ["Vampire"]
 	},
 	
