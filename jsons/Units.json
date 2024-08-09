@@ -2166,7 +2166,7 @@
 		"strength": 50,
 		"uniques": ["Unbuildable",
 					"[+5] HP when healing <in [Coffin] tiles>",
-     "Can instantly construct a [Customs house] improvement",
+     "Can instantly construct a [Coffin] improvement",
 					"[-50]% Strength <when fighting in [Desert] tiles>", 
 					"Preachable"],
 		"attackSound": "nonmetalhit",
