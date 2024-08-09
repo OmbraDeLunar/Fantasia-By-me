@@ -349,7 +349,7 @@
 	{
 		"name": "Winged Vampire",
 		"prerequisites": ["Bloodlust"],
-		"uniques": ["May Paradrop up to [15] tiles from inside friendly territory","Ignores terrain cost"],
+		"uniques": ["May Paradrop up to [15] tiles from inside friendly territory","Ignores terrain cost","Ignores Zone of Control"],
 		"unitTypes": ["Vampire"]
 	},
 	{
