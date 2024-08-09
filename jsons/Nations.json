@@ -696,7 +696,7 @@
 					"Provides [4] [Vampiric Block]", 
 					"[Military] units gain the [Vampiric Touch] promotion",
 					"New [Dracula] units start with [-15] Experience [in all cities]", 
-					"Free [Dracula] appears <upon discovering [Quintessence Force]>"],
+					"Free [Dracula] appears <upon entering the [Feudal age]>"],
 		"cities": ["Transylvania","Varkola","Sanguins","Chupacabra","Vlokodla","Mormolykia","Abhartcia","Kravopiea","Llorona","Lampire",
 			"Dachnavar","Virginia","Constanța","Timișoara","Craiova","Galați","Oradea","Târgu Mureș","K'uei","Zolla"],
 		"spyNames": ["Victor","Báthory","Alucard","Laszlo","Rufus","Vanda","Morbius","Valeria","Ezra","Kavița"],
