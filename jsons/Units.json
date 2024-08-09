@@ -2166,6 +2166,7 @@
 		"strength": 50,
   "rangedStrength": 50,
 		"uniques": ["Unbuildable",
+    "Nuclear weapon of Strength [2]",
     "Blast radius [2]",
 					"[+5] HP when healing <in [Coffin] tiles>",
      "Can instantly construct a [Coffin] improvement",
